@@ -1,0 +1,11 @@
+test_file_structure_and_recovery (test_stack_evaluator.EvaluatorTests.test_file_structure_and_recovery) ... ok
+test_format (test_stack_evaluator.EvaluatorTests.test_format) ... ok
+test_invalid_expressions (test_stack_evaluator.EvaluatorTests.test_invalid_expressions) ... ok
+test_stack (test_stack_evaluator.EvaluatorTests.test_stack) ... ok
+test_valid_expressions (test_stack_evaluator.EvaluatorTests.test_valid_expressions) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+Processed 3 expressions; 0 errors. Results: output.txt
