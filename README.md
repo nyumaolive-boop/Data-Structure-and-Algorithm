@@ -1,6 +1,6 @@
 # DCOMP320 Stack Implementation
 
-Author: Josephine Olive Nyuma
+Author: Josephine Olive Nyuma BSEM2103
 Course: Data Structures and Algorithm
 
 A Python command-line program evaluates one mathematical expression per line using a custom Stack class and two-stack infix evaluation. It does not use eval(), exec(), or an external expression evaluator.
